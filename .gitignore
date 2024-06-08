@@ -1,1 +1,3 @@
 *.ckpt
+*.pt
+europarl-v7.*
